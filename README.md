@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+![](https://raw.githubusercontent.com/wuxunjiee/wuxunjiee/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **wuxunjiee/wuxunjiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
